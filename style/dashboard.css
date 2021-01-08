@@ -1,0 +1,44 @@
+
+body{
+    background-color: blueviolet;
+    background-image: url("../image/searchbackground2.png");
+}
+.logout{
+    float: right;
+}
+.back{
+    float: left;
+}
+.search{
+     width:400px;
+     height: 100px;
+    
+    margin:50 auto;
+    text-align: center;
+    color: blue;
+    float :center;
+    background-color: pink;
+    border-radius: 10px;
+}
+
+input[type=date]{
+    height: 50px;
+    width : 200px;
+    margin: 5 auto;
+    border-radius: 8px;
+
+}
+input[type=submit]{
+    height: 50px;
+    width : 100px;
+    margin: 5 auto;
+    border-radius: 8px;
+    background-color : green;
+    color : white;
+
+}
+
+.dash table{
+ 
+  border:2px solid #aaa; 
+  }

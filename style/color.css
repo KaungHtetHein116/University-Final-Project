@@ -1,0 +1,99 @@
+body{
+    margin : 0 auto;
+    background-image: url("../image/loginbackground.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+    }
+ 
+.box1{
+    width: 500px;
+    height: 500px;
+    border:2px solid #aaa; 
+    border-radius: 18px;
+    text-align: center;
+    float: left;
+    background-color: rgba(44, 62, 80,0.7);
+    margin-top: 100px;
+    margin-left : 10px;
+    
+  
+     }
+ 
+.box1 img{
+	width: 150px;
+    height: 150px; 
+    border:2px solid white; 
+    border-radius: 50%;
+    margin-top: 20px;
+    background-color: #27ae60;
+     }
+ 
+input[type="text"],input[type="password"]{
+	margin-top: 20px;
+	height: 45px;
+    width: 300px;
+    border:2px solid #aaa; 
+    border-radius: 8px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding-left: 40px;
+     }
+input[type="password"]:focus{
+    border-color: green;
+    box-shadow: 0 0 8px 0 green;
+     }
+input[type="text"]:focus{
+    border-color: green;
+    box-shadow: 0 0 8px 0 green;
+     }
+
+ .btn-login{
+	padding: 15px 25px;
+	border:2px solid #aaa; 
+    border-radius: 8px;
+	background-color: #27ae60;
+	color:yellow;
+     }
+.icon{
+    padding: 16px 5px;
+    background:green;
+    color:white;
+    min-width: 50px;
+   
+    text-align: center;
+     }
+.msg {
+    margin: 20px auto; 
+    padding: 5px; 
+    border-radius: 5px; 
+    color : red; 
+    background: #dff0d8; 
+    border: 1px solid #3c763d;
+    width: 90%;
+    text-align: center; 
+    }
+    .box2{
+        width: 500px;
+        height: 500px;
+        border:2px solid #aaa; 
+        border-radius: 18px;
+        text-align: center;
+        float : right;
+        background-color: rgba(44, 62, 80,0.7);
+        margin-top: 100px;
+        margin-right : 10px;
+      
+         }
+ 
+    .box2 img{
+                width: 150px;
+                height: 150px; 
+                border:2px solid white; 
+                border-radius: 50%;
+                margin-top: 20px;
+                background-color: #27ae60;
+                 }         
+.logout{
+    float: left;
+}
