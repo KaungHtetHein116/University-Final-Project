@@ -41,3 +41,5 @@
 ## Dashboard for Usage of Bags
 
 ![Dashboard](https://user-images.githubusercontent.com/70010691/104021127-a6f2e500-51ec-11eb-9c1e-c2749a99d47b.PNG)
+
+[CLICK HERE](https://drive.google.com/file/d/1IasMWAd5mTBPJ16uyQdR43VZzH5xgvvR/view?usp=sharing) to see the Thesis book
